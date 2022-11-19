@@ -12,8 +12,12 @@ OR
 yarn add react-flex-styled
 ```
 
-### Examples
-[Example 1](https://codesandbox.io/s/react-flex-styled-demo-gowlou?file=/src/App.tsx)
+## Examples
+### Demo
+[Example](https://gowlou.csb.app/)
+
+### Play
+[Example](https://codesandbox.io/s/react-flex-styled-demo-gowlou?file=/src/App.tsx)
 
 ## Usage
 Supports all valid CSS as a props
